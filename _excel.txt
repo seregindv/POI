@@ -1,0 +1,5 @@
+формулы для A1 - lon, B1 - lat, C1 - name
+lmx
+="<lm:landmark><lm:name>"&C1&"</lm:name><lm:coordinates><lm:latitude>"&B1&"</lm:latitude><lm:longitude>"&A1&"</lm:longitude></lm:coordinates></lm:landmark>"
+gpx
+="<wpt lat="""&B1&""" lon="""&A1&"""><name>"&C1&"</name></wpt>"

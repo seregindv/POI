@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lm:lmx xmlns:lm="http://www.nokia.com/schemas/location/landmarks/1/0">
+  <lm:landmarkCollection>
+    <lm:name>Landmarks</lm:name>
+    <lm:landmark>
+      <lm:name>дуб причал базы отдыха "Электрон" (бывшая пристань "Большая Волга")</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7275</lm:latitude>
+        <lm:longitude>37.1269444444444</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Памятник Ленину</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7308333333333</lm:latitude>
+        <lm:longitude>37.1247222222222</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Лестница к тоннелю под шлюзом</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7336111111111</lm:latitude>
+        <lm:longitude>37.1383333333333</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Дроздовский парк</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7341666666667</lm:latitude>
+        <lm:longitude>37.1405555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Треугольники с лавочками</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7463888888889</lm:latitude>
+        <lm:longitude>37.1775</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Аллея памяти</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7447222222222</lm:latitude>
+        <lm:longitude>37.1727777777778</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Дом Культуры "Мир"</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7491666666667</lm:latitude>
+        <lm:longitude>37.1877777777778</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Пляж на Волге</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7516666666667</lm:latitude>
+        <lm:longitude>37.1888888888889</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Туевая аллея</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7505555555556</lm:latitude>
+        <lm:longitude>37.1897222222222</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Парк 40-летия Победы</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7547222222222</lm:latitude>
+        <lm:longitude>37.1947222222222</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Атракционы в парке</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7358333333333</lm:latitude>
+        <lm:longitude>37.1538888888889</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб "Беличья столовая"</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7252777777778</lm:latitude>
+        <lm:longitude>37.1530555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Пик Тяпкина или "3-е холмы"</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7363888888889</lm:latitude>
+        <lm:longitude>37.1755555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Остатки укрепрайона времен ВОВ</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7327777777778</lm:latitude>
+        <lm:longitude>37.1694444444444</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб "2-е холмы"</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7388888888889</lm:latitude>
+        <lm:longitude>37.1802777777778</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Административный корпус ОИЯИ, "Дом учёных", кафе</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7463888888889</lm:latitude>
+        <lm:longitude>37.1888888888889</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Дикси</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7519444444444</lm:latitude>
+        <lm:longitude>37.2030555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Волга</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7494444444444</lm:latitude>
+        <lm:longitude>37.2025</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Универсам</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7455555555556</lm:latitude>
+        <lm:longitude>37.1955555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Пятёрочк</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7469444444444</lm:latitude>
+        <lm:longitude>37.1886111111111</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Дорожный</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7416666666667</lm:latitude>
+        <lm:longitude>37.1702777777778</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод ТЦ Атак</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7394444444444</lm:latitude>
+        <lm:longitude>37.1683333333333</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод ТЦ ЧУМ + Перекресток</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7383333333333</lm:latitude>
+        <lm:longitude>37.1683333333333</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Спар</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7358333333333</lm:latitude>
+        <lm:longitude>37.1572222222222</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Пятёрочка</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7352777777778</lm:latitude>
+        <lm:longitude>37.1588888888889</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Пятерочка</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7325</lm:latitude>
+        <lm:longitude>37.1638888888889</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Магнит</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7305555555556</lm:latitude>
+        <lm:longitude>37.1541666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Магнолия</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7316666666667</lm:latitude>
+        <lm:longitude>37.15</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Пятерочка</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.73</lm:latitude>
+        <lm:longitude>37.1455555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Пятерочка</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7297222222222</lm:latitude>
+        <lm:longitude>37.1497222222222</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб прод Мираторг</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7277777777778</lm:latitude>
+        <lm:longitude>37.1416666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Колоннада флагов стран-участниц ОИЯИ</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7511111111111</lm:latitude>
+        <lm:longitude>37.1922222222222</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Сквер</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7316666666667</lm:latitude>
+        <lm:longitude>37.1530555555556</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Паромная переправа</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7161833333333</lm:latitude>
+        <lm:longitude>37.6166666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб роспись книжный магазин Сахарова, 1стр2</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7463</lm:latitude>
+        <lm:longitude>37.6166666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Пересечение реки и канала</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.6975333333333</lm:latitude>
+        <lm:longitude>37.6166666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Памятник Высоцкому</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7488833333333</lm:latitude>
+        <lm:longitude>37.6166666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+    <lm:landmark>
+      <lm:name>дуб Музей ОИЯИ</lm:name>
+      <lm:coordinates>
+        <lm:latitude>56.7444666666667</lm:latitude>
+        <lm:longitude>37.6166666666667</lm:longitude>
+      </lm:coordinates>
+    </lm:landmark>
+  </lm:landmarkCollection>
+</lm:lmx>

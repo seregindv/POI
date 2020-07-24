@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="SAS.Planet 20.06.06.10075" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <metadata>
+    <time>2020-07-11T19:56:25Z</time>
+    <link href="http://www.sasgis.org/">
+      <text>SAS.Planet</text>
+    </link>
+    <name>Некрасовка-Луговая</name>
+    <author>
+      <name>A</name>
+    </author>
+    <bounds maxlat="56.0434445926939" maxlon="37.5775100538379" minlat="56.0780760147203" minlon="37.4927783466981"/>
+  </metadata>
+  <rte>
+    <name>Некрасовка-Луговая</name>
+    <number>1</number>
+    <extensions>
+      <gpxx:RouteExtension>
+        <gpxx:Categories>
+          <gpxx:Category>default</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:RouteExtension>
+      <gpxtrx:TrackExtension>
+        <gpxtrx:Categories>
+          <gpxtrx:Category>default</gpxtrx:Category>
+        </gpxtrx:Categories>
+      </gpxtrx:TrackExtension>
+    </extensions>
+    <rtept lat="56.0747487555885" lon="37.4967001691895">
+      <name>Некрасовка-Луговая 1</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0738864912406" lon="37.4963568464356">
+      <name>Некрасовка-Луговая 2</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0740541552637" lon="37.4976013914185">
+      <name>Некрасовка-Луговая 3</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0725930585452" lon="37.4972151533203">
+      <name>Некрасовка-Луговая 4</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0721858577868" lon="37.4976443067627">
+      <name>Некрасовка-Луговая 5</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0707725982493" lon="37.4977730527954">
+      <name>Некрасовка-Луговая 6</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0704132867148" lon="37.4984596983032">
+      <name>Некрасовка-Луговая 7</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0701976981864" lon="37.499318005188">
+      <name>Некрасовка-Луговая 8</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0697425628886" lon="37.5021504179077">
+      <name>Некрасовка-Луговая 9</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0702003996279" lon="37.5026453425071">
+      <name>Некрасовка-Луговая 10</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0710208272553" lon="37.5042868544242">
+      <name>Некрасовка-Луговая 11</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0718265594272" lon="37.5053476110535">
+      <name>Некрасовка-Луговая 12</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0720871465321" lon="37.5049508471431">
+      <name>Некрасовка-Луговая 13</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0722248770346" lon="37.5051976103725">
+      <name>Некрасовка-Луговая 14</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0723985365319" lon="37.5053370852413">
+      <name>Некрасовка-Луговая 15</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0733147271327" lon="37.5060666460933">
+      <name>Некрасовка-Луговая 16</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0734344890003" lon="37.5064850706996">
+      <name>Некрасовка-Луговая 17</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0732488579469" lon="37.5070644278468">
+      <name>Некрасовка-Луговая 18</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0733446676345" lon="37.509081449026">
+      <name>Некрасовка-Луговая 19</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0732368817192" lon="37.5097680945339">
+      <name>Некрасовка-Луговая 20</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0733267033362" lon="37.5106049437465">
+      <name>Некрасовка-Луговая 21</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0736261072145" lon="37.5111521143855">
+      <name>Некрасовка-Луговая 22</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0738955687162" lon="37.5110019106807">
+      <name>Некрасовка-Луговая 23</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0741291004937" lon="37.5110233683528">
+      <name>Некрасовка-Луговая 24</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0743746067339" lon="37.5125146765651">
+      <name>Некрасовка-Луговая 25</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0746440630022" lon="37.5130511183681">
+      <name>Некрасовка-Луговая 26</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0747828244188" lon="37.5134286952177">
+      <name>Некрасовка-Луговая 27</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0753456805189" lon="37.5137505602995">
+      <name>Некрасовка-Луговая 28</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0753935827861" lon="37.5140080523649">
+      <name>Некрасовка-Луговая 29</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0761001343113" lon="37.5139651370207">
+      <name>Некрасовка-Луговая 30</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0765911201151" lon="37.5143084597746">
+      <name>Некрасовка-Луговая 31</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0774413490279" lon="37.5154457163969">
+      <name>Некрасовка-Луговая 32</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0778844186316" lon="37.5163469386259">
+      <name>Некрасовка-Луговая 33</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0779323177431" lon="37.5170764994779">
+      <name>Некрасовка-Луговая 34</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0779323177431" lon="37.5176129412809">
+      <name>Некрасовка-Луговая 35</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0780760147203" lon="37.5178489756742">
+      <name>Некрасовка-Луговая 36</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0777766454131" lon="37.5208101344267">
+      <name>Некрасовка-Луговая 37</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0773694994229" lon="37.5226984095731">
+      <name>Некрасовка-Луговая 38</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0765551945367" lon="37.5241789889494">
+      <name>Некрасовка-Луговая 39</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.072865114088" lon="37.5593072092649">
+      <name>Некрасовка-Луговая 40</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.073037725392" lon="37.560012549143">
+      <name>Некрасовка-Луговая 41</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0728461042524" lon="37.5604631602575">
+      <name>Некрасовка-Луговая 42</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0726185529118" lon="37.5606562793066">
+      <name>Некрасовка-Луговая 43</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0724868120479" lon="37.5621368586828">
+      <name>Некрасовка-Луговая 44</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0722592585859" lon="37.5638534724524">
+      <name>Некрасовка-Луговая 45</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0719478674608" lon="37.5642182528784">
+      <name>Некрасовка-Луговая 46</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0719119375537" lon="37.5658275782873">
+      <name>Некрасовка-Луговая 47</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0714927528293" lon="37.5657417475988">
+      <name>Некрасовка-Луговая 48</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0708220477874" lon="37.5656344592382">
+      <name>Некрасовка-Луговая 49</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0708340247655" lon="37.5661923587133">
+      <name>Некрасовка-Луговая 50</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0708879211208" lon="37.5664605796148">
+      <name>Некрасовка-Луговая 51</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0703549427387" lon="37.5663747489264">
+      <name>Некрасовка-Луговая 52</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0699057979305" lon="37.5665249526312">
+      <name>Некрасовка-Луговая 53</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0699842069812" lon="37.5673897281614">
+      <name>Некрасовка-Луговая 54</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0698524571127" lon="37.5679261699644">
+      <name>Некрасовка-Луговая 55</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0690978810085" lon="37.5689775958982">
+      <name>Некрасовка-Луговая 56</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0678521992463" lon="37.5701792255369">
+      <name>Некрасовка-Луговая 57</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0675767064978" lon="37.5702865138975">
+      <name>Некрасовка-Луговая 58</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0672892337045" lon="37.5713164821592">
+      <name>Некрасовка-Луговая 59</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0668939551133" lon="37.5719602123228">
+      <name>Некрасовка-Луговая 60</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0660434934939" lon="37.574342013928">
+      <name>Некрасовка-Луговая 61</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0653008215228" lon="37.5738484874693">
+      <name>Некрасовка-Луговая 62</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0645461563162" lon="37.5731189266172">
+      <name>Некрасовка-Луговая 63</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0633722032981" lon="37.5725610271421">
+      <name>Некрасовка-Луговая 64</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0624260142186" lon="37.5729384717666">
+      <name>Некрасовка-Луговая 65</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0620426654712" lon="37.5741615590774">
+      <name>Некрасовка-Луговая 66</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0617551514094" lon="37.574268847438">
+      <name>Некрасовка-Луговая 67</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0610962569311" lon="37.5740328130447">
+      <name>Некрасовка-Луговая 68</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0588451637958" lon="37.575020963872">
+      <name>Некрасовка-Луговая 69</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0575991507218" lon="37.5754501173144">
+      <name>Некрасовка-Луговая 70</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0558738353825" lon="37.5775100538379">
+      <name>Некрасовка-Луговая 71</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0558738353825" lon="37.5755359480029">
+      <name>Некрасовка-Луговая 72</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0554424944869" lon="37.5721885511523">
+      <name>Некрасовка-Луговая 73</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0560659765154" lon="37.5711398971215">
+      <name>Некрасовка-Луговая 74</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0567369383099" lon="37.5698524367943">
+      <name>Некрасовка-Луговая 75</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0554429301106" lon="37.5665908706322">
+      <name>Некрасовка-Луговая 76</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0567848637057" lon="37.5628143203392">
+      <name>Некрасовка-Луговая 77</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0564014588719" lon="37.5576644790306">
+      <name>Некрасовка-Луговая 78</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0560180502263" lon="37.5550037276879">
+      <name>Некрасовка-Луговая 79</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0562097550255" lon="37.5520854842797">
+      <name>Некрасовка-Луговая 80</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.055778417887" lon="37.5471931350365">
+      <name>Некрасовка-Луговая 81</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0548198736401" lon="37.5433307540551">
+      <name>Некрасовка-Луговая 82</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0537175183033" lon="37.5416141402855">
+      <name>Некрасовка-Луговая 83</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.052135823002" lon="37.5394683730736">
+      <name>Некрасовка-Луговая 84</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0518463680355" lon="37.5386553749291">
+      <name>Некрасовка-Луговая 85</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0511753211545" lon="37.538998697683">
+      <name>Некрасовка-Луговая 86</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0505042625989" lon="37.5380116447655">
+      <name>Некрасовка-Луговая 87</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0491621104635" lon="37.539899919912">
+      <name>Некрасовка-Луговая 88</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0482992737163" lon="37.5402861580101">
+      <name>Некрасовка-Луговая 89</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0478199116286" lon="37.5406723961082">
+      <name>Некрасовка-Луговая 90</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0484071293652" lon="37.5466590866295">
+      <name>Некрасовка-Луговая 91</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0471368103616" lon="37.5469165786949">
+      <name>Некрасовка-Луговая 92</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0470649042614" lon="37.5410586342064">
+      <name>Некрасовка-Луговая 93</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0471008573282" lon="37.5394278511253">
+      <name>Некрасовка-Луговая 94</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0470049824089" lon="37.5371747955528">
+      <name>Некрасовка-Луговая 95</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0470931504903" lon="37.5367007640647">
+      <name>Некрасовка-Луговая 96</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0477043476222" lon="37.5364218143271">
+      <name>Некрасовка-Луговая 97</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0473328367942" lon="37.5348339465903">
+      <name>Некрасовка-Луговая 98</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0479080778476" lon="37.5346622852134">
+      <name>Некрасовка-Луговая 99</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0481237910312" lon="37.5340400127219">
+      <name>Некрасовка-Луговая 100</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0478002208034" lon="37.5334606555747">
+      <name>Некрасовка-Луговая 101</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0474886320931" lon="37.5333533672141">
+      <name>Некрасовка-Луговая 102</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0473448210703" lon="37.5328812984275">
+      <name>Некрасовка-Луговая 103</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0472369624513" lon="37.5329885867881">
+      <name>Некрасовка-Луговая 104</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0462662213106" lon="37.5308857349204">
+      <name>Некрасовка-Луговая 105</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0457269101221" lon="37.5310359386252">
+      <name>Некрасовка-Луговая 106</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.045355380251" lon="37.5302849201011">
+      <name>Некрасовка-Луговая 107</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0453433953569" lon="37.5294909862326">
+      <name>Некрасовка-Луговая 108</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0447920862027" lon="37.5285253909873">
+      <name>Некрасовка-Луговая 109</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0446242948964" lon="37.5278602031516">
+      <name>Некрасовка-Луговая 110</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0446242948964" lon="37.5252423671531">
+      <name>Некрасовка-Луговая 111</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0444633455397" lon="37.5242906574993">
+      <name>Некрасовка-Луговая 112</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.044607167304" lon="37.5219732289104">
+      <name>Некрасовка-Луговая 113</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0448348840011" lon="37.5212222103863">
+      <name>Некрасовка-Луговая 114</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0447270183648" lon="37.5192910198955">
+      <name>Некрасовка-Луговая 115</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0443794492629" lon="37.5186687474041">
+      <name>Некрасовка-Луговая 116</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0442595971225" lon="37.5172954563885">
+      <name>Некрасовка-Луговая 117</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0440798182138" lon="37.5155144696026">
+      <name>Некрасовка-Луговая 118</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0442715823533" lon="37.514699078062">
+      <name>Некрасовка-Луговая 119</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0438760677712" lon="37.5145917897014">
+      <name>Некрасовка-Луговая 120</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0436004036951" lon="37.514505959013">
+      <name>Некрасовка-Луговая 121</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0434445926939" lon="37.5140338902263">
+      <name>Некрасовка-Луговая 122</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0435165055419" lon="37.5137334828167">
+      <name>Некрасовка-Луговая 123</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0438640824176" lon="37.5129395489483">
+      <name>Некрасовка-Луговая 124</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0443554788646" lon="37.5110727314739">
+      <name>Некрасовка-Луговая 125</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.044607167304" lon="37.5105148319988">
+      <name>Некрасовка-Луговая 126</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0449120364028" lon="37.5101405648638">
+      <name>Некрасовка-Луговая 127</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.045307540365" lon="37.5097972421099">
+      <name>Некрасовка-Луговая 128</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0454992984024" lon="37.508917477553">
+      <name>Некрасовка-Луговая 129</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0457629641476" lon="37.507844593947">
+      <name>Некрасовка-Луговая 130</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0455831922441" lon="37.5072652367998">
+      <name>Некрасовка-Луговая 131</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0455831922441" lon="37.5065356759477">
+      <name>Некрасовка-Луговая 132</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0458588421536" lon="37.5041109589983">
+      <name>Некрасовка-Луговая 133</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0455831922441" lon="37.5017291573931">
+      <name>Некрасовка-Луговая 134</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.0484484114339" lon="37.4936151959107">
+      <name>Некрасовка-Луговая 135</name>
+      <sym>waypoint</sym>
+    </rtept>
+    <rtept lat="56.048544282766" lon="37.4927783466981">
+      <name>Некрасовка-Луговая 136</name>
+      <sym>waypoint</sym>
+    </rtept>
+  </rte>
+</gpx>

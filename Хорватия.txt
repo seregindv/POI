@@ -1,0 +1,7 @@
+﻿45.22487 13.59777 Porec bus station
+44.87701 13.85447 Pula bus station
+45.33025 14.43169 Rijeca rail station
+45.32795 14.43696 Rijeka bus station
+45.08072 13.63892 Rovinj bus station
+45.45521 13.51739 Sol Aurora hotel
+45.43014 13.5305 Umag bus station

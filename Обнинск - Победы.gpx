@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<gpx>
+  <trk>
+    <trkseg>
+      <trkpt lon="36.602927" lat="55.097067" />
+      <trkpt lon="36.605936" lat="55.09839" />
+      <trkpt lon="36.609748" lat="55.100058" />
+      <trkpt lon="36.610383" lat="55.100058" />
+      <trkpt lon="36.618809" lat="55.098888" />
+    </trkseg>
+  </trk>
+</gpx>

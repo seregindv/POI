@@ -1,0 +1,490 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+ 3.9.10" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favourites</name>
+  </metadata>
+  <wpt lat="54.8320397" lon="11.1494708">
+    <name>Aldi 8-20</name>
+    <cmt>Amenity:Aldi: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="57.4086058" lon="10.5160189">
+    <name>Bunker Museum</name>
+    <cmt>Amenity:Bunker Museum: tourism:museum</cmt>
+  </wpt>
+  <wpt lat="55.6780805" lon="12.572329">
+    <name>Caritasbrønden 1608 fountain</name>
+    <cmt>Amenity:Caritasbronden: tourism:fountain</cmt>
+  </wpt>
+  <wpt lat="36.0633324" lon="14.2895865">
+    <name>cave</name>
+    <cmt>Amenity:Mixta Cave: tourism:attraction</cmt>
+  </wpt>
+  <wpt lat="55.6772346" lon="12.5730371">
+    <name>Copenhagen Court House</name>
+    <cmt>Amenity:Copenhagen Court House: osmwiki:wiki_place</cmt>
+  </wpt>
+  <wpt lat="54.7677078" lon="11.8667145">
+    <name>Czarens Hus</name>
+    <cmt>Amenity:Czarens Hus: man_made:building</cmt>
+  </wpt>
+  <wpt lat="54.8312111" lon="11.136982">
+    <name>Den Gamle Smedje blacksmith</name>
+    <cmt>Amenity:Den Gamle Smedje (Nakskov): osmwiki:wiki_place</cmt>
+  </wpt>
+  <wpt lat="54.8294067" lon="11.1357803">
+    <name>Dronningens Pakhus warehouse 1590</name>
+    <cmt>Amenity:Dronningens Pakhus: osmwiki:wiki_place</cmt>
+  </wpt>
+  <wpt lat="55.648621" lon="12.0700479">
+    <name>Elenoravej</name>
+    <cmt>Amenity:Elenoravej: transportation:bus_stop</cmt>
+  </wpt>
+  <wpt lat="58.3837408" lon="24.5000696">
+    <name>Elisabethi kirik</name>
+    <cmt>Amenity:Elisabethi kirik: tourism:place_of_worship</cmt>
+  </wpt>
+  <wpt lat="54.844366" lon="38.2538366">
+    <name>Fountain</name>
+    <cmt>Amenity:: tourism:fountain</cmt>
+  </wpt>
+  <wpt lat="57.4363347" lon="10.5366182">
+    <name>Frederikshavn Turistbureau</name>
+    <cmt>Amenity:Frederikshavn Turistbureau: tourism:information</cmt>
+  </wpt>
+  <wpt lat="55.6758058" lon="12.591126">
+    <name>Gammel Dok Pakhus</name>
+    <cmt>Amenity:Gammel Dok Pakhus: tourism:attraction</cmt>
+  </wpt>
+  <wpt lat="55.3290162" lon="8.768549">
+    <name>Giørtz Plads</name>
+    <cmt>Amenity:Giortz Plads: man_made:square</cmt>
+  </wpt>
+  <wpt lat="55.6798952" lon="12.5759125">
+    <name>Gråbrødretorv едальная площадь</name>
+    <cmt>Amenity:Grabrodretorv: man_made:square</cmt>
+  </wpt>
+  <wpt lat="55.6744446" lon="12.570827">
+    <name>Hans Christian Andersen</name>
+    <cmt>Amenity:Hans Christian Andersen: tourism:memorial</cmt>
+  </wpt>
+  <wpt lat="35.8282561" lon="14.5625613">
+    <name>ignore chained dogs</name>
+  </wpt>
+  <wpt lat="54.7656416" lon="11.8694186">
+    <name>Klosterkirken</name>
+    <cmt>Amenity:Klosterkirken: tourism:place_of_worship</cmt>
+  </wpt>
+  <wpt lat="57.4398339" lon="10.5408454">
+    <name>Krudttårnet</name>
+    <cmt>Amenity:Krudttarnet: man_made:tower</cmt>
+  </wpt>
+  <wpt lat="54.830606" lon="11.1415958">
+    <name>Kvickly 8-20</name>
+    <cmt>Amenity:Kvickly: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="54.834289" lon="11.1318755">
+    <name>Lidl 8-21</name>
+    <cmt>Amenity:Lidl: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="58.3834034" lon="24.503696">
+    <name>Lydia Koidula</name>
+    <cmt>Amenity:Lydia Koidula: tourism:monument</cmt>
+  </wpt>
+  <wpt lat="55.6791573" lon="12.5840235">
+    <name>Magasin Du Nord (типа Harrods)</name>
+    <cmt>Amenity:Magasin Du Nord: man_made:building</cmt>
+  </wpt>
+  <wpt lat="54.8290116" lon="11.1368752">
+    <name>Meny 6:30-19</name>
+    <cmt>Amenity:Havnegade Super: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="54.9246966" lon="10.2488066">
+    <name>Mill</name>
+  </wpt>
+  <wpt lat="54.9233085" lon="10.2809606">
+    <name>Mill (1)</name>
+  </wpt>
+  <wpt lat="54.8844739" lon="10.4049545">
+    <name>Mill (2)</name>
+  </wpt>
+  <wpt lat="54.8293577" lon="11.1419177">
+    <name>Netto 7-22</name>
+    <cmt>Amenity:Netto: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="55.672678" lon="12.5721359">
+    <name>Ny Carlsberg Glyptotek</name>
+    <cmt>Amenity:Ny Carlsberg Glyptotek: tourism:museum</cmt>
+  </wpt>
+  <wpt lat="55.6796036" lon="12.5902672">
+    <name>Nyhavn 18</name>
+  </wpt>
+  <wpt lat="55.6795425" lon="12.5904827">
+    <name>Nyhavn 20</name>
+  </wpt>
+  <wpt lat="55.6795425" lon="12.592886">
+    <name>Nyhavn 67</name>
+  </wpt>
+  <wpt lat="55.6774755" lon="12.5730371">
+    <name>Nytorv square</name>
+    <cmt>Amenity:New Market: man_made:square</cmt>
+  </wpt>
+  <wpt lat="60.1561798" lon="24.9209833">
+    <name>observation deck</name>
+    <cmt>Amenity:Nakoalatasanne: tourism:viewpoint</cmt>
+  </wpt>
+  <wpt lat="32.6453736" lon="-16.8706441">
+    <name>Pináculo last viewpoint</name>
+    <cmt>Amenity:Pinaculo: tourism:viewpoint</cmt>
+  </wpt>
+  <wpt lat="55.6747955" lon="12.563746">
+    <name>Radisson SAS Royal высотка 1960</name>
+    <cmt>Amenity:Radisson SAS Royal: tourism:hotel</cmt>
+  </wpt>
+  <wpt lat="55.6811171" lon="12.5751615">
+    <name>Regensen</name>
+    <cmt>Amenity:Froken Lind: natural:tree</cmt>
+  </wpt>
+  <wpt lat="54.828715" lon="11.1417675">
+    <name>Rema 1000 7-21</name>
+    <cmt>Amenity:Rema 1000: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="55.3307983" lon="8.7564898">
+    <name>Riberhus Slotsbanke</name>
+    <cmt>Amenity:Riberhus Slotsbanke: entertainment:park</cmt>
+  </wpt>
+  <wpt lat="55.3292944" lon="8.7679254">
+    <name>Sanct Nicolaj Gade (Ribe), Esbjerg</name>
+  </wpt>
+  <wpt lat="54.9693498" lon="10.2067709">
+    <name>Skjoldnæs Fyr</name>
+    <cmt>Amenity:Skjoldnaes Fyr: tourism:attraction</cmt>
+  </wpt>
+  <wpt lat="32.6719114" lon="-16.8045974">
+    <name>spotting evening</name>
+    <cmt>Amenity:: transportation:bus_stop</cmt>
+  </wpt>
+  <wpt lat="39.9287111" lon="3.1170273">
+    <name>Talaia d'Albercutx</name>
+    <cmt>Amenity:Talaied d' Albercutx: tourism:viewpoint</cmt>
+  </wpt>
+  <wpt lat="58.3834683" lon="24.5061435">
+    <name>time memorial</name>
+  </wpt>
+  <wpt lat="57.7194608" lon="10.5868721">
+    <name>Tourist-Information Skagen</name>
+    <cmt>Amenity:Tourist-Information Skagen: tourism:information</cmt>
+  </wpt>
+  <wpt lat="55.2770009" lon="8.5370207">
+    <name>Traktorbusser 13:00</name>
+    <cmt>Amenity:Mando Kro &amp; Traktorbusser: transportation:public_transport_platform</cmt>
+  </wpt>
+  <wpt lat="35.8230345" lon="14.4670585">
+    <name>viewpoint</name>
+  </wpt>
+  <wpt lat="36.02123" lon="14.2707733">
+    <name>viewpoint (1)</name>
+  </wpt>
+  <wpt lat="36.0633662" lon="14.2892417">
+    <name>viewpoint (2)</name>
+  </wpt>
+  <wpt lat="36.0624467" lon="14.28921">
+    <name>viewpoint (3)</name>
+  </wpt>
+  <wpt lat="56.7082617" lon="36.7541867">
+    <name>viewpoint (4)</name>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="35.8784948" lon="14.5172375">
+    <name>viewpointq</name>
+  </wpt>
+  <wpt lat="55.656449" lon="37.3466226">
+    <name>автобус</name>
+  </wpt>
+  <wpt lat="56.0748229" lon="37.5533026">
+    <name>Админ</name>
+    <cmt>Amenity:: administrative:townhall</cmt>
+    <extensions>
+      <osmand:address>Зелёная улица, Марфино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="59.3836192" lon="28.6138594">
+    <name>Аквариум</name>
+    <cmt>Amenity:Magnit: shop:supermarket</cmt>
+    <extensions>
+      <osmand:address>Крикковское шоссе 37, Кингисепп</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.8803177" lon="37.8389091">
+    <name>б.о.</name>
+  </wpt>
+  <wpt lat="56.0427895" lon="37.1226196">
+    <name>Бибоп</name>
+  </wpt>
+  <wpt lat="59.9461887" lon="31.0332549">
+    <name>В.И. Ленин</name>
+    <cmt>Amenity:V.I. Lienin: tourism:memorial</cmt>
+    <extensions>
+      <osmand:address>улица Чекалова, Шлиссельбург</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#d00d0d</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.5383878" lon="37.5728989">
+    <name>Вечная слава героям</name>
+    <cmt>Amenity:Viechnaia slava ghieroiam: tourism:memorial</cmt>
+  </wpt>
+  <wpt lat="59.7490936" lon="30.6124377">
+    <name>Владимир Ильич Ленин</name>
+    <cmt>Amenity:Vladimir Il'ich Lienin: tourism:memorial</cmt>
+    <extensions>
+      <osmand:address>Привокзальная площадь, Колпино</osmand:address>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9808944" lon="37.7299054">
+    <name>дк</name>
+    <extensions>
+      <osmand:address>Школьная улица, Пирогово</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="59.941366" lon="31.0445523">
+    <name>дк (1)</name>
+    <cmt>Amenity:Kul'turno-sportivnyi komplieks "Nievskii": entertainment:theatre</cmt>
+    <extensions>
+      <osmand:address>улица Малоневский канал 2, Шлиссельбург</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9763538" lon="37.9076594">
+    <name>дом культуры</name>
+    <extensions>
+      <osmand:address>Студенческий проезд, Ивантеевка</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.5679058" lon="38.2220578">
+    <name>дореволюц школа</name>
+  </wpt>
+  <wpt lat="55.990245" lon="37.6916867">
+    <name>забор</name>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9915917" lon="37.6800433">
+    <name>забор 2</name>
+    <extensions>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.9922697" lon="37.6732725">
+    <name>забор-3</name>
+    <extensions>
+      <osmand:address>Near Берёзовая улица, Сорокино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="58.5233742" lon="31.2879544">
+    <name>Завод ленинского комсомола вывеска примерно</name>
+    <extensions>
+      <osmand:address>Дворцовая улица (Ярославово Дворище), Великий Новгород</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="58.532786" lon="31.3269468">
+    <name>Знак Новгород</name>
+    <extensions>
+      <osmand:address>Московская улица, Великий Новгород</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.7046664" lon="36.7597937">
+    <name>зона отдыха</name>
+    <extensions>
+      <osmand:address>Near Первомайская улица, Конаково</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.7138819" lon="37.4485882">
+    <name>Лесенка</name>
+  </wpt>
+  <wpt lat="55.4384407" lon="37.5421035">
+    <name>Лесенка и на реку 4 м</name>
+  </wpt>
+  <wpt lat="35.90933" lon="14.504445">
+    <name>маг рик 1.85 хат 1.5 маг 3 на 5</name>
+  </wpt>
+  <wpt lat="58.4075717" lon="24.3583033">
+    <name>мост вело</name>
+  </wpt>
+  <wpt lat="59.6885319" lon="30.4479915">
+    <name>Музыкальный вокзал</name>
+    <cmt>Amenity:Muzykal'nyi vokzal: tourism:memorial</cmt>
+    <extensions>
+      <osmand:address>Садовая улица 20 литП, Павловск</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="56.00804" lon="37.8135831">
+    <name>Нет прохода</name>
+  </wpt>
+  <wpt lat="55.6557735" lon="37.6655599">
+    <name>Обзор Коломенское</name>
+  </wpt>
+  <wpt lat="59.7179379" lon="30.3994274">
+    <name>Певческая башня</name>
+    <cmt>Amenity:Pievchieskaia bashnia: tourism:viewpoint</cmt>
+    <extensions>
+      <osmand:address>Лицейский переулок 7А, Пушкин</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="59.6876655" lon="30.4465431">
+    <name>площадь Гуляний</name>
+    <cmt>Amenity:ploshchad' Gulianii: man_made:square</cmt>
+    <extensions>
+      <osmand:address>Садовая улица 20 литД, Павловск</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="54.8514759" lon="38.1881332">
+    <name>Погибшим железнодорожникам</name>
+    <cmt>Amenity:Poghibshim zhielieznodorozhnikam: tourism:memorial</cmt>
+  </wpt>
+  <wpt lat="59.9451141" lon="31.0341293">
+    <name>Пушка</name>
+    <cmt>Amenity:Pushka: tourism:attraction</cmt>
+    <extensions>
+      <osmand:address>Красная площадь, Шлиссельбург</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.0607449" lon="10.6074142">
+    <name>Садъ</name>
+  </wpt>
+  <wpt lat="58.5455829" lon="31.239388">
+    <name>Скульптура Мойдодыр</name>
+    <cmt>Amenity:Moidodyr: tourism:artwork</cmt>
+    <extensions>
+      <osmand:address>проспект Александра Корсунова 30, Великий Новгород</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="57.725511" lon="10.5968714">
+    <name>смотр площ до 17</name>
+    <cmt>Amenity:Skagen Vandtarn: tourism:viewpoint</cmt>
+  </wpt>
+  <wpt lat="55.6729261" lon="12.5942588">
+    <name>смотровая до 19</name>
+    <cmt>Amenity:Church of Our Saviour, Copenhagen: tourism:place_of_worship</cmt>
+  </wpt>
+  <wpt lat="56.1541074" lon="10.2070713">
+    <name>смотровая на торгцентре</name>
+    <cmt>Amenity:Salling Super: shop:supermarket</cmt>
+  </wpt>
+  <wpt lat="54.8386767" lon="37.60283">
+    <name>спуск к усадьбе</name>
+  </wpt>
+  <wpt lat="58.550596" lon="31.2684953">
+    <name>Суперсамолет</name>
+    <cmt>Amenity:Aviatoram Volkhovskogho fronta: tourism:monument</cmt>
+    <extensions>
+      <osmand:address>Сырковское шоссе, Великий Новгород</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.3306885" lon="8.768034">
+    <name>сюда надо</name>
+    <cmt>Amenity:Frandsen: shop:clothes</cmt>
+  </wpt>
+  <wpt lat="55.4705593" lon="37.5437164">
+    <name>фонтан на силикатной</name>
+    <cmt>Amenity:: tourism:fountain</cmt>
+  </wpt>
+  <wpt lat="59.6884372" lon="30.4487532">
+    <name>Фонтан с лягушками</name>
+    <cmt>Amenity:Fontan s liaghushkami: tourism:fountain</cmt>
+    <extensions>
+      <osmand:address>Садовая улица 20 литУ, Павловск</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="58.5475151" lon="31.2639068">
+    <name>фреска</name>
+    <extensions>
+      <osmand:address>Деповская улица, Великий Новгород</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="55.7224033" lon="37.4329734">
+    <name>Хирургическое отделение</name>
+    <cmt>Amenity:Khirurghichieskoie otdielieniie: man_made:building</cmt>
+  </wpt>
+  <wpt lat="56.074763" lon="37.5478095">
+    <name>ЦКД "Марфино"</name>
+    <cmt>Amenity:TsKD "Marfino": entertainment:community_centre</cmt>
+    <extensions>
+      <osmand:address>Ильинская улица с28, Марфино</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="58.5314608" lon="31.2312907">
+    <name>я люблю новгород</name>
+    <extensions>
+      <osmand:address>улица Попова, Великий Новгород</osmand:address>
+      <osmand:icon>special_star</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+</gpx>

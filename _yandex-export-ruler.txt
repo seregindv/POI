@@ -1,0 +1,11 @@
+open in sources & pretty print
+https://yastatic.net/s3/front-maps-static/maps-front-maps/build/client/desktop/chunks/ruler/eac5b9a087616bb91a8b.ru.js
+
+add breakpoint to n._onPointAdd or n._onPointRemove
+add or remove point
+
+copy(['<?xml version="1.0" encoding="utf-16"?>', '<gpx>', '  <trk>', '    <trkseg>'].concat(n.props.points.map(point => `      <trkpt lon="${point.coordinates[0]}" lat="${point.coordinates[1]}" />`)).concat('    </trkseg>', '  </trk>', '</gpx>').join('\n'))
+
+==============================================
+
+copy(['<?xml version="1.0" encoding="utf-16"?>', '<gpx>', '  <trk>', '    <trkseg>'].concat([...yandex_map._getFeaturesForDataSource('editorMarkers').values()].map(point => `      <trkpt lon="${point.geometry.coordinates[0]}" lat="${point.geometry.coordinates[1]}" />`)).concat('    </trkseg>', '  </trk>', '</gpx>').join('\n'))
